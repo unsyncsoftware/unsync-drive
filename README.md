@@ -15,7 +15,7 @@ Finder-style web UI + WebDAV for native File Explorer / file manager integration
 ## First-time Setup
 
 ```bash
-git clone https://github.com/chukoizkie/unsync-drive
+git clone https://github.com/unsyncsoftware/unsync-drive
 cd unsync-drive
 npm install
 node setup.js
